@@ -40,5 +40,8 @@ WHEN the password is generated
 
 THEN the password is either displayed in an alert or written to the page
 
+## Site Access
+https://abdisalamhassan.github.io/Password-Generator/
+
 ## Contribution
 Made by Abdi Hassan
